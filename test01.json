@@ -27,7 +27,7 @@
                  "value":"https:\/\/www.youtube.com\/watch?v=5qap5aO4i9A"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -62,7 +62,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
