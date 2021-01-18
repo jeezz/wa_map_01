@@ -12,7 +12,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"frontconfi"
+                 "value":"wa-kinzo-front-confi"
                 }],
          "type":"tilelayer",
          "visible":true,
