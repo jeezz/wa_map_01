@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch\/5qap5aO4i9A"
+                 "value":"https:\/\/5b44cf20b0388.streamlock.net:8443\/live\/ngrp:live_all\/playlist.m3u8"
                 }],
          "type":"tilelayer",
          "visible":true,
