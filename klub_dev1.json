@@ -12,7 +12,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/trace.dnbradio.com:8000\/dnbradio_mobile.aac"
+                 "value":"https:\/\/st01.sslstream.dlf.de\/dlf\/01\/128\/mp3\/stream.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
