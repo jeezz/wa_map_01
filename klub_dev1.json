@@ -19,7 +19,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/hauptstadtspaziergang.de:8000\/test.mp3"
+                 "value":"https:\/\/hauptstadtspaziergang.de:4443\/test.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
