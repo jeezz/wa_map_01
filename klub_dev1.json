@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=6Irus3d5f0E"
+                 "value":"https:\/\/www.youtube.com\/embed\/6Irus3d5f0E?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
