@@ -33,6 +33,12 @@
          "id":14,
          "name":"bar-chat",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"void-bar-room"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
