@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/6Irus3d5f0E?autoplay=1"
+                 "value":"https:\/\/player.vimeo.com\/video\/519859698?autoplay=1&color=ff00cc&title=0&byline=0&portrait=0"
                 }],
          "type":"tilelayer",
          "visible":true,
